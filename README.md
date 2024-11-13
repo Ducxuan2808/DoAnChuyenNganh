@@ -66,11 +66,11 @@ Dưới đây là một số ảnh demo của trang web bán hàng này
    ```
 
 ## Thành viên
-Nguyễn Mạnh Vinh
-Đào Tuấn Vũ
-Dương Văn Vũ
-Nguyễn Đức Xuân
-Nguyễn Thị Yến
+* Nguyễn Mạnh Vinh
+* Đào Tuấn Vũ
+* Dương Văn Vũ
+* Nguyễn Đức Xuân
+* Nguyễn Thị Yến
 
 
 Project Link: [https://github.com/Ducxuan2808/DoAnChuyenNganh]
