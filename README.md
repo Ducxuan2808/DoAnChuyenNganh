@@ -66,12 +66,14 @@ Dưới đây là một số ảnh demo của trang web bán hàng này
    ```
 
 ## Thành viên
+Nguyễn Mạnh Vinh
+Đào Tuấn Vũ
+Dương Văn Vũ
+Nguyễn Đức Xuân
+Nguyễn Thị Yến
 
-* Lê Minh Dũng - Nhóm trưởng - leminhdung_t64@hus.edu.vn
-* Tăng Thế Duy -  tangtheduy_t64@hus.edu.vn
-* Trần Khánh Duy -  trankhanhduy_t64@hus.edu.vn
 
-Project Link: [https://github.com/leminhdung2701/tiki-shop-main](https://github.com/leminhdung2701/tiki-shop-main)
+Project Link: [https://github.com/Ducxuan2808/DoAnChuyenNganh]
 
 ## Chức năng của trang web
 * Xem sản phẩm theo độ phổ biến, danh mục, xem gần đây
