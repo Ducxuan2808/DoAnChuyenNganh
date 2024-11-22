@@ -32,7 +32,7 @@ Dưới đây là một số ảnh demo của trang web bán hàng này
 ### Cách cài đặt
 1. Clone từ git hub theo đường link
    ```
-   git clone https://github.com/leminhdung2701/tiki-shop-main
+   git clone https://github.com/Ducxuan2808/DoAnChuyenNganh.git
    ```
 2. Chạy chương trình 
    
