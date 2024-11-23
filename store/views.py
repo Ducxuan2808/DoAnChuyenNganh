@@ -188,7 +188,7 @@ def category_products(request, slug):
             'all':products,
             'products': products,
             'categories': categories,
-            'sorting':sorting,
+            'sorting' : sorting,
         }
         return render(request, 'store/category_products.html', context)
     # Product     
